@@ -1,0 +1,30 @@
+{
+  "default": "conversational",
+  "refs": {
+    "conversational": {
+      "wav": "voices/kanika/refs/conversational.wav",
+      "text": "Yeah, all right. If there are no more questions, I think we're good to end. And I will be sharing these slides and links and everything with you after the meeting today.",
+      "seconds": 9.6
+    },
+    "greeting": {
+      "wav": "voices/kanika/refs/greeting.wav",
+      "text": "Hi, everybody. Very good morning. Hope everybody had a good homecoming week.",
+      "seconds": 5.6
+    },
+    "casual": {
+      "wav": "voices/kanika/refs/casual.wav",
+      "text": "You know, just try to cover everything. I'm going to try to cover everything in half an hour, so I'm going to be high level on it.",
+      "seconds": 6.4
+    },
+    "explaining": {
+      "wav": "voices/kanika/refs/explaining.wav",
+      "text": "You know, the item could be temporarily unavailable or it could still be an active item with balance on hand in the warehouse.",
+      "seconds": 6.7
+    },
+    "question": {
+      "wav": "voices/kanika/refs/question.wav",
+      "text": "If it's not a model change, that means that we're having a new item. Now, how is the new item behaving?",
+      "seconds": 6.5
+    }
+  }
+}

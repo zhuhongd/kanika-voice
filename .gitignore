@@ -1,0 +1,13 @@
+# Nothing that can speak in Kanika's voice enters git. The weights and the
+# reference clips ship only as the kanika-voice.zip Release asset, which
+# inherits this repo's private visibility.
+dist/
+*.zip
+*.wav
+*.mp3
+*.ckpt
+*.pth
+*.pt
+
+__pycache__/
+*.pyc
